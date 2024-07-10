@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AppHome</string>
+    <string name="title_activity_main">AppHome</string>
+    <string name="package_name">com.app.apphome</string>
+    <string name="custom_url_scheme">com.app.apphome</string>
+</resources>

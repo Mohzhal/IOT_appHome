@@ -1,0 +1,17 @@
+.lamp-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #f0f0f0; 
+}
+
+.lamp-wrapper {
+  text-align: center;
+  margin-top: 20px; /* Jarak antar lampu */
+}
+
+ion-icon {
+  width: 200px; /* Adjust the size as needed */
+  height: 200px; /* Adjust the size as needed */
+}
